@@ -1,6 +1,8 @@
 # Application UI Pantai Menganti
 
-Copy paste code main.dart on the folder lib
+Nama : Ade Rahmat Setiawan
+Kelas : IK-2A
+No Absen : 01
 
 ## Preview UI
 
