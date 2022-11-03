@@ -1,8 +1,8 @@
 # Application UI Pantai Menganti
 
-Nama : Ade Rahmat Setiawan
-Kelas : IK-2A
-No Absen : 01
+Nama : Ade Rahmat Setiawan<br>
+Kelas : IK-2A <br>
+No Absen : 01 <br>
 
 ## Preview UI
 
